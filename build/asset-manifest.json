@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cv/static/css/main.8560dd09.chunk.css",
+    "main.js": "/cv/static/js/main.fd5072e9.chunk.js",
+    "main.js.map": "/cv/static/js/main.fd5072e9.chunk.js.map",
+    "runtime-main.js": "/cv/static/js/runtime-main.f5f05c1f.js",
+    "runtime-main.js.map": "/cv/static/js/runtime-main.f5f05c1f.js.map",
+    "static/css/2.e7046c92.chunk.css": "/cv/static/css/2.e7046c92.chunk.css",
+    "static/js/2.65490c37.chunk.js": "/cv/static/js/2.65490c37.chunk.js",
+    "static/js/2.65490c37.chunk.js.map": "/cv/static/js/2.65490c37.chunk.js.map",
+    "static/js/3.a6fd0bbc.chunk.js": "/cv/static/js/3.a6fd0bbc.chunk.js",
+    "static/js/3.a6fd0bbc.chunk.js.map": "/cv/static/js/3.a6fd0bbc.chunk.js.map",
+    "index.html": "/cv/index.html",
+    "static/css/2.e7046c92.chunk.css.map": "/cv/static/css/2.e7046c92.chunk.css.map",
+    "static/css/main.8560dd09.chunk.css.map": "/cv/static/css/main.8560dd09.chunk.css.map",
+    "static/js/2.65490c37.chunk.js.LICENSE.txt": "/cv/static/js/2.65490c37.chunk.js.LICENSE.txt",
+    "static/media/circle-cropped.5a9136a8.png": "/cv/static/media/circle-cropped.5a9136a8.png",
+    "static/media/font-awesome.min.css": "/cv/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5f05c1f.js",
+    "static/css/2.e7046c92.chunk.css",
+    "static/js/2.65490c37.chunk.js",
+    "static/css/main.8560dd09.chunk.css",
+    "static/js/main.fd5072e9.chunk.js"
+  ]
+}
